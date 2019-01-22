@@ -1,0 +1,11 @@
+# Resources cpp
+qrc_*.cpp
+
+# Compilation and Qt preprocessor part
+build/
+*.qm
+/Makefile
+centurion-qt
+test_centurion
+/.vscode
+/CMakeFiles
